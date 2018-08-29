@@ -1,6 +1,6 @@
 #!/bin/bash -e
 #Set DT ENV VARS FOR SAAS
-DT_DOWNLOAD_URI=""
+DT_DOWNLOAD_URI="wget -O Dynatrace-OneAgent-Linux-1.149.213.sh "https://mvv888.dynatrace-managed.com/e/trainingattendee2-28-8-2018-SEWorkshop2/api/v1/deployment/installer/agent/unix/default/latest?Api-Token=-slCE9E7STCT3ARNIHFRJ&arch=x86&flavor=default""
 
 
 # Install docker and docker-compose
